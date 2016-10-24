@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Material Docs</title>
+    <link>https://example.org/index.xml</link>
+    <description>Recent content on Material Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Mon, 24 Oct 2016 14:02:43 -0400</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://example.org/getting-started/</link>
+      <pubDate>Mon, 24 Oct 2016 14:02:43 -0400</pubDate>
+      
+      <guid>https://example.org/getting-started/</guid>
+      <description>
+
+&lt;h2 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nunc ante, interdum non justo quis, mollis molestie elit. Morbi dapibus tortor nec est vulputate accumsan. Praesent eget egestas quam. Cras pharetra lectus vel quam laoreet, vitae pharetra justo malesuada. Fusce eu egestas mi, quis iaculis neque. Suspendisse est metus, tempor eu velit id, bibendum venenatis nisi. In porttitor rhoncus sapien, ac vehicula elit suscipit eu. Nulla scelerisque nisl et libero euismod, vel sodales ante semper. Aliquam erat volutpat. Fusce laoreet urna dignissim nunc dictum scelerisque.&lt;/p&gt;
+
+&lt;p&gt;Etiam condimentum sapien mi, non mattis libero placerat id. Vestibulum fermentum, elit efficitur feugiat iaculis, magna sem convallis justo, in pretium ante sapien vitae orci. Duis venenatis mattis eleifend. Pellentesque auctor risus et purus condimentum, nec mattis dui interdum. Morbi malesuada urna vel luctus pulvinar. Proin porta nec arcu a placerat. Aliquam sed ex ac augue hendrerit tincidunt. Maecenas luctus elementum nibh vitae sollicitudin. In eleifend facilisis lacus, eget gravida ex malesuada id. Ut ut sem mattis neque euismod tincidunt id quis urna. Nam vitae velit faucibus, faucibus felis tincidunt, tincidunt orci.&lt;/p&gt;
+
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://carto.com/docs/&#34;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nhgis.org&#34;&gt;NHGIS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
